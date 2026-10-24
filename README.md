@@ -1,1 +1,2 @@
-# Student-Information-System
+Student Information System
+Version 1.0
